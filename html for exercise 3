@@ -7,7 +7,14 @@
     <style>
       
     /* Type CSS code here */
-      
+      body{ 
+        width:640px 
+          }
+      p{
+      border: solid 3px 'pink'
+      }
+        
+
       
     </style>
 
